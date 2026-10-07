@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: be8c108372c9c4581a654833b1cde13d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7478671391585659495
+    second: farmer_walk_sheet_0
+  - first:
+      213: 3610679518018890810
+    second: farmer_walk_sheet_1
+  - first:
+      213: -2182901841016215859
+    second: farmer_walk_sheet_2
+  - first:
+      213: 5161214140243145757
+    second: farmer_walk_sheet_3
+  - first:
+      213: 1548839341929058543
+    second: farmer_walk_sheet_4
+  - first:
+      213: 4946114378409459561
+    second: farmer_walk_sheet_5
+  - first:
+      213: 2230386009801013579
+    second: farmer_walk_sheet_6
+  - first:
+      213: -1162150181059451830
+    second: farmer_walk_sheet_7
+  - first:
+      213: -101957773016408820
+    second: farmer_walk_sheet_8
+  - first:
+      213: 5014144064346975336
+    second: farmer_walk_sheet_9
+  - first:
+      213: -6147842450726500804
+    second: farmer_walk_sheet_10
+  - first:
+      213: 171995131791150030
+    second: farmer_walk_sheet_11
+  - first:
+      213: 7720588421864260160
+    second: farmer_walk_sheet_12
+  - first:
+      213: -1790172769134774859
+    second: farmer_walk_sheet_13
+  - first:
+      213: 7350359660128776380
+    second: farmer_walk_sheet_14
+  - first:
+      213: -2954443047229592645
+    second: farmer_walk_sheet_15
+  - first:
+      213: -8397209393203695496
+    second: farmer_walk_sheet_16
+  - first:
+      213: 4895783462865305300
+    second: farmer_walk_sheet_17
+  - first:
+      213: 1700217859729798638
+    second: farmer_walk_sheet_18
+  - first:
+      213: -289909359487876919
+    second: farmer_walk_sheet_19
+  - first:
+      213: -5052762926404685313
+    second: farmer_walk_sheet_20
+  - first:
+      213: -1095875513728496405
+    second: farmer_walk_sheet_21
+  - first:
+      213: -8351493843985764482
+    second: farmer_walk_sheet_22
+  - first:
+      213: 3789894217606798928
+    second: farmer_walk_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmer_walk_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 408
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ae657c10499c760800000000000000
+      internalID: 7478671391585659495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 408
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c6b4534e5bb1230800000000000000
+      internalID: 3610679518018890810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 408
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6aea25756c4b1e0800000000000000
+      internalID: -2182901841016215859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 410
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d147aee4ae050a740800000000000000
+      internalID: 5161214140243145757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 410
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0d4d5ec259e7510800000000000000
+      internalID: 1548839341929058543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 410
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f3c8f42d024a440800000000000000
+      internalID: 4946114378409459561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 275
+        width: 54
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49b032424ce3fe10800000000000000
+      internalID: 2230386009801013579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 277
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44ab4251963fdfe0800000000000000
+      internalID: -1162150181059451830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 277
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d544512f5c59ef0800000000000000
+      internalID: -101957773016408820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 275
+        width: 54
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ce800e571d59540800000000000000
+      internalID: 5014144064346975336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 275
+        width: 57
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36416d1dd97eaaa0800000000000000
+      internalID: -6147842450726500804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 275
+        width: 54
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb028d39ac036200800000000000000
+      internalID: 171995131791150030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428636a34a052b60800000000000000
+      internalID: 7720588421864260160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5f429e9570827e0800000000000000
+      internalID: -1790172769134774859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 137
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb03651ca29b10660800000000000000
+      internalID: 7350359660128776380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 137
+        width: 55
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbe1cca3b5bff6d0800000000000000
+      internalID: -2954443047229592645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 139
+        width: 63
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87035851c8e177b80800000000000000
+      internalID: -8397209393203695496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 138
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de7159de1151f340800000000000000
+      internalID: 4895783462865305300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee538f1a223689710800000000000000
+      internalID: 1700217859729798638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c00aaa39f80afbf0800000000000000
+      internalID: -289909359487876919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 9
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1b26d93eaf0e9b0800000000000000
+      internalID: -5052762926404685313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec0a26c60baac0f0800000000000000
+      internalID: -1095875513728496405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fed55d898891c80800000000000000
+      internalID: -8351493843985764482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer_walk_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 7
+        width: 58
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e92c016b8689430800000000000000
+      internalID: 3789894217606798928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      farmer_walk_sheet_0: 7478671391585659495
+      farmer_walk_sheet_1: 3610679518018890810
+      farmer_walk_sheet_10: -6147842450726500804
+      farmer_walk_sheet_11: 171995131791150030
+      farmer_walk_sheet_12: 7720588421864260160
+      farmer_walk_sheet_13: -1790172769134774859
+      farmer_walk_sheet_14: 7350359660128776380
+      farmer_walk_sheet_15: -2954443047229592645
+      farmer_walk_sheet_16: -8397209393203695496
+      farmer_walk_sheet_17: 4895783462865305300
+      farmer_walk_sheet_18: 1700217859729798638
+      farmer_walk_sheet_19: -289909359487876919
+      farmer_walk_sheet_2: -2182901841016215859
+      farmer_walk_sheet_20: -5052762926404685313
+      farmer_walk_sheet_21: -1095875513728496405
+      farmer_walk_sheet_22: -8351493843985764482
+      farmer_walk_sheet_23: 3789894217606798928
+      farmer_walk_sheet_3: 5161214140243145757
+      farmer_walk_sheet_4: 1548839341929058543
+      farmer_walk_sheet_5: 4946114378409459561
+      farmer_walk_sheet_6: 2230386009801013579
+      farmer_walk_sheet_7: -1162150181059451830
+      farmer_walk_sheet_8: -101957773016408820
+      farmer_walk_sheet_9: 5014144064346975336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
